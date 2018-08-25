@@ -1,0 +1,29 @@
+
+
+LIRI Response:
+
+=====================
+==== User Tweets ====
+=====================
+Tweeted at: Fri Aug 17 13:58:42 +0000 2018
+Tweet Message: Hello, My name is David (This is a test for my application)
+=====================
+Tweeted at: Fri Aug 17 13:58:20 +0000 2018
+Tweet Message: Hello World!
+=====================
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+=====================
+==== User Tweets ====
+=====================
+Tweeted at: Fri Aug 17 13:58:42 +0000 2018
+Tweet Message: Hello, My name is David (This is a test for my application)
+=====================
+Tweeted at: Fri Aug 17 13:58:20 +0000 2018
+Tweet Message: Hello World!
+=====================
+
+User Command: /usr/local/bin/node,/Users/davidwong/Desktop/liri-node-app/liri.js,do-what-it-says
