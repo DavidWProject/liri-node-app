@@ -31,4 +31,4 @@ These are some of the packages needed to run the application.
 
 ## Demonstration 
 
-![my tweets](gif/node-my-tweet.gif)
+![my tweets](gifs/node-my-tweet.gif)
