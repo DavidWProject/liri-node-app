@@ -53,13 +53,13 @@ if (inputCommands === listOfValidCommands[0]) {
                 "=====================\n";
 
             for (var i = 0; i < tweets.length; i++) {
-                if (i = tweets.length - 1) {
+ 
                     tweetMessage += "Tweeted at: " + tweets[i].created_at + "\n" + "Tweet Message: " + tweets[i].text + "\n" + "=====================\n";
-                    console.log(tweetMessage);
-                }
+                    
+                
 
             }
-
+            console.log(tweetMessage);
         }
     });
 }
