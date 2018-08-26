@@ -50,10 +50,12 @@ custom search of the song named "love song". I made it so that the query would p
 movie came out, IMDB rating, Rotten Tomato Rating, Country where the movie was produced and more. Because
 there was no particular search parameter on the gif below, the default search parameter is Mr. Nobody. 
 On the 2nd gif below, we entered a custom parameter "iron man", and the gif shows how the application calls on the omdb 
-api, resulting the information given. 
+api, resulting the information given.**
 
-![OMDB Search Gif] (gifs/this-movie.gif)
+![OMDB Search Gif](gifs/this-movie.gif)
 
-![OMDB Custom Search Gif] (gifs/this-movie-custom.gif)
+![OMDB Custom Search Gif](gifs/this-movie-custom.gif)
 
-**Lastly we have
+**Lastly we have the "do-what-it-says" command, which uses the 'fs' Node package. The Liri will take the text inside random.txt and then use it to call one of LIRI's commands. Random.txt currently has the 'spotify-this-song' command with "I Want it That Way" as the parameter. The result should be the gif below.**
+
+![Do What Random txt file saids](gifs/do-this.gif)
